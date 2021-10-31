@@ -1,0 +1,22 @@
+version: '3.4'
+
+services:
+  hepsiburadacasestudydb:
+    container_name: hepsiburadacasestudydb
+    restart: always
+    volumes:
+      - ${WEBAPP_STORAGE_HOME}/site:/data/db
+    ports:
+      - "27017:27017"
+  hepsiburadacasestudy.api:
+    container_name: hepsiburadacasestudyapi
+    environment:
+       - ASPNETCORE_ENVIRONMENT=Development
+       - "MongoDbSettings:ConnectionString=mongodb://hepsiburadacasestudydb:27017"
+    depends_on:
+      - hepsiburadacasestudydb
+    ports:
+      - "8000:80"
+    volumes:
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro

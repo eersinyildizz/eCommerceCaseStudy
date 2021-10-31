@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  hepsiburadacasestudydb:
+    image: mongo
+  hepsiburadacasestudy.api:
+    image: ${DOCKER_REGISTRY-}hepsiburadacasestudyapi
+    build:
+      context: .
+      dockerfile: src/HepsiBuradaCaseStudy.Api/Dockerfile

@@ -1,0 +1,29 @@
+services:
+  hepsiburadacasestudy.api:
+    build:
+      context: C:\Projects\HepsiBuradaCaseStudy
+      dockerfile: src/HepsiBuradaCaseStudy.Api/Dockerfile
+    container_name: hepsiburadacasestudyapi
+    depends_on:
+      hepsiburadacasestudydb:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      MongoDbSettings:ConnectionString: mongodb://hepsiburadacasestudydb:27017
+    image: hepsiburadacasestudyapi
+    ports:
+    - published: 8000
+      target: 80
+    volumes:
+    - C:\Users\EMRE\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\EMRE\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+  hepsiburadacasestudydb:
+    container_name: hepsiburadacasestudydb
+    image: mongo
+    ports:
+    - published: 27017
+      target: 27017
+    restart: always
+    volumes:
+    - /site:/data/db:rw
+version: '3.4'

@@ -1,0 +1,15 @@
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Infrastructure\bin\Debug\net5.0\HepsiBuradaCaseStudy.Infrastructure.deps.json
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Infrastructure\bin\Debug\net5.0\HepsiBuradaCaseStudy.Infrastructure.dll
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Infrastructure\bin\Debug\net5.0\ref\HepsiBuradaCaseStudy.Infrastructure.dll
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Infrastructure\bin\Debug\net5.0\HepsiBuradaCaseStudy.Infrastructure.pdb
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Infrastructure\bin\Debug\net5.0\HepsiBuradaCaseStudy.Domain.dll
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Infrastructure\bin\Debug\net5.0\HepsiBuradaCaseStudy.Domain.pdb
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Infrastructure\obj\Debug\net5.0\HepsiBuradaCaseStudy.Infrastructure.csprojAssemblyReference.cache
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Infrastructure\obj\Debug\net5.0\HepsiBuradaCaseStudy.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Infrastructure\obj\Debug\net5.0\HepsiBuradaCaseStudy.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Infrastructure\obj\Debug\net5.0\HepsiBuradaCaseStudy.Infrastructure.AssemblyInfo.cs
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Infrastructure\obj\Debug\net5.0\HepsiBuradaCaseStudy.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Infrastructure\obj\Debug\net5.0\HepsiBuradaCaseStudy.Infrastructure.csproj.CopyComplete
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Infrastructure\obj\Debug\net5.0\HepsiBuradaCaseStudy.Infrastructure.dll
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Infrastructure\obj\Debug\net5.0\ref\HepsiBuradaCaseStudy.Infrastructure.dll
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Infrastructure\obj\Debug\net5.0\HepsiBuradaCaseStudy.Infrastructure.pdb

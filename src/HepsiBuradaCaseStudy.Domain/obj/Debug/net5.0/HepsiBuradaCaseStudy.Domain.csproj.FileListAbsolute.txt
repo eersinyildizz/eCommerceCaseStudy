@@ -1,0 +1,12 @@
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Domain\bin\Debug\net5.0\HepsiBuradaCaseStudy.Domain.deps.json
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Domain\bin\Debug\net5.0\HepsiBuradaCaseStudy.Domain.dll
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Domain\bin\Debug\net5.0\ref\HepsiBuradaCaseStudy.Domain.dll
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Domain\bin\Debug\net5.0\HepsiBuradaCaseStudy.Domain.pdb
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Domain\obj\Debug\net5.0\HepsiBuradaCaseStudy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Domain\obj\Debug\net5.0\HepsiBuradaCaseStudy.Domain.AssemblyInfoInputs.cache
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Domain\obj\Debug\net5.0\HepsiBuradaCaseStudy.Domain.AssemblyInfo.cs
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Domain\obj\Debug\net5.0\HepsiBuradaCaseStudy.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Domain\obj\Debug\net5.0\HepsiBuradaCaseStudy.Domain.dll
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Domain\obj\Debug\net5.0\ref\HepsiBuradaCaseStudy.Domain.dll
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Domain\obj\Debug\net5.0\HepsiBuradaCaseStudy.Domain.pdb
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Domain\obj\Debug\net5.0\HepsiBuradaCaseStudy.Domain.csprojAssemblyReference.cache

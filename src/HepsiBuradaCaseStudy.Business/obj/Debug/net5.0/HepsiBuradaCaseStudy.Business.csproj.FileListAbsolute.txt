@@ -1,0 +1,17 @@
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Business\obj\Debug\net5.0\HepsiBuradaCaseStudy.Business.csprojAssemblyReference.cache
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Business\obj\Debug\net5.0\HepsiBuradaCaseStudy.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Business\obj\Debug\net5.0\HepsiBuradaCaseStudy.Business.AssemblyInfoInputs.cache
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Business\obj\Debug\net5.0\HepsiBuradaCaseStudy.Business.AssemblyInfo.cs
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Business\obj\Debug\net5.0\HepsiBuradaCaseStudy.Business.csproj.CoreCompileInputs.cache
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Business\bin\Debug\net5.0\HepsiBuradaCaseStudy.Business.deps.json
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Business\bin\Debug\net5.0\HepsiBuradaCaseStudy.Business.dll
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Business\bin\Debug\net5.0\ref\HepsiBuradaCaseStudy.Business.dll
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Business\bin\Debug\net5.0\HepsiBuradaCaseStudy.Business.pdb
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Business\bin\Debug\net5.0\HepsiBuradaCaseStudy.Domain.dll
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Business\bin\Debug\net5.0\HepsiBuradaCaseStudy.Infrastructure.dll
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Business\bin\Debug\net5.0\HepsiBuradaCaseStudy.Domain.pdb
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Business\bin\Debug\net5.0\HepsiBuradaCaseStudy.Infrastructure.pdb
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Business\obj\Debug\net5.0\HepsiBuradaCaseStudy.Business.csproj.CopyComplete
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Business\obj\Debug\net5.0\HepsiBuradaCaseStudy.Business.dll
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Business\obj\Debug\net5.0\ref\HepsiBuradaCaseStudy.Business.dll
+C:\Projects\HepsiBuradaCaseStudy\src\HepsiBuradaCaseStudy.Business\obj\Debug\net5.0\HepsiBuradaCaseStudy.Business.pdb
